@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../odin-css-exercises/css-exercises/flex"
+		},
+		{
+			"path": "../../odin-css-exercises/css-exercises"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "flex"
+	}
+}
